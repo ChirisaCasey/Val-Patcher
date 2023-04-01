@@ -13,4 +13,6 @@ otherwise, it will patch and launch valorant automatically.
 
 click any key after selecting the launcher window to run the exit valorant function
 
-$$\huge DO\ NOT\ CLOSE\ LAUNCHER\ WITHOUT\ RUNNING\ THE\ EXIT\ VALORANT\ FUNCTION$$
+IMPORTANT: Do not exit the launcher after patching via the exit button, only use the intended exit functionality, otherwise valorant will automatically unpatch itself on the next run.
+
+sidenote: valorant will only be patched when running on the launcher.
