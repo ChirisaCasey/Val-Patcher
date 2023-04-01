@@ -9,4 +9,8 @@ Copy any video file into the *"Custom"* folder.
 Run Launcher.bat and wait till its done loading.
 
 if valorant was run before the launcher, it will patch the current instance of valorant.
-otherwise, it will patch and launch valorant automatically. You must unpatch valorant before restarting valorant, so when exiting valorant, either exit via the launcher or hit enter on the launcher after exiting valorant.
+otherwise, it will patch and launch valorant automatically. 
+
+click any key after selecting the launcher window to run the exit valorant function
+
+$$\huge DO NOT CLOSE LAUNCHER WITHOUT RUNNING THE EXIT VALORANT FUNCTION$$
