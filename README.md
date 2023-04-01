@@ -13,4 +13,4 @@ otherwise, it will patch and launch valorant automatically.
 
 click any key after selecting the launcher window to run the exit valorant function
 
-$$\huge DO NOT CLOSE LAUNCHER WITHOUT RUNNING THE EXIT VALORANT FUNCTION$$
+$$\huge DO\ NOT\ CLOSE\ LAUNCHER\ WITHOUT\ RUNNING\ THE\ EXIT\ VALORANT\ FUNCTION$$
