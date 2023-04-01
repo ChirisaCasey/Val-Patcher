@@ -12,8 +12,7 @@ if %isrun%==1 (goto :main) else (goto :loop)
 EXIT /B 0
 
 :main
-xcopy "%~dp0Custom\*.mp4" %vpath%HomePage_Gekko.mp4 /y >NUL
-xcopy %vpath%HomePage_Gekko.mp4 %vpath%HomepageEp6A2.mp4 /y >NUL
+FOR %%X in ("%~dp0Backups\*.mp4") DO (xcopy "%~dp0Custom\*.mp4" %vpath%%%~nX.mp4 /y >NUL)
 cls
 echo Press enter to exit valorant.
 pause >NUL
