@@ -1,0 +1,4 @@
+# Your personal files: never commit these.
+Custom/
+Backups/
+*.lnk

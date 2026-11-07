@@ -1,5 +1,4 @@
-@ECHO OFF
-set /p vpath=<"%~dp0path.txt"
-set vpath="%vpath%\live\ShooterGame\Content\Movies\Menu\"
-xcopy /s /y %vpath%*Homescreen.mp4 "%~dp0Backups\" >NUL
-mkdir "%~dp0Custom"
+@echo off
+rem First-time setup: finds VALORANT, creates the Custom and Backups folders and
+rem backs up the original menu video. All the logic lives in launcher.bat.
+call "%~dp0launcher.bat" --setup
